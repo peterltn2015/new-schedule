@@ -1,0 +1,6 @@
+31:
+Total hour: 14.0
+Fri: 11:00am-3:30pm, (Big Kitchen)
+Fri: 8:00am-11:15am, (Dishroom)
+Mon: 10:45am-2:00pm, (Grill)
+Tue: 8:30pm-11:30pm, (Late Night)

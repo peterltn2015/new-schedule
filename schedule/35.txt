@@ -1,0 +1,6 @@
+35:
+Total hour: 13.5
+Sat: 4:45pm-8:00pm, (Big Kitchen)
+Sat: 5:45pm-9:30pm, (Dining)
+Tue: 10:00am-1:00pm, (Dishroom)
+Thu: 10:30am-2:00pm, (Global)

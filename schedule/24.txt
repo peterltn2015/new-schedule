@@ -1,0 +1,5 @@
+24:
+Total hour: 12.0
+Sun: 9:45am-2:00pm, (Big Kitchen)
+Sun: 12:00pm-4:45pm, (Deli)
+Mon: 5:30pm-8:30pm, (Global)

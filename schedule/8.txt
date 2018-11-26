@@ -1,0 +1,6 @@
+8:
+Total hour: 12.75
+Tue: 11:30am-3:00pm, (Dining)
+Wed: 4:00pm-6:30pm, (Dishroom)
+Tue: 11:00am-2:30pm, (Global)
+Sun: 10:15pm-13:30pm, (Late Night)

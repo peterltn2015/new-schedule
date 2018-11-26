@@ -1,0 +1,6 @@
+7:
+Total hour: 13.5
+Wed: 11:00am-2:30pm, (Deli)
+Sun: 5:30pm-9:00pm, (Deli)
+Wed: 11:00am-2:00pm, (Dishroom)
+Fri: 10:30am-2:00pm, (Global)

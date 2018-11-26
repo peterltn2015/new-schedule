@@ -1,0 +1,7 @@
+9:
+Total hour: 17.0
+Mon: 10:45am-3:00pm, (Big Kitchen)
+Mon: 12:00pm-3:00pm, (Dining)
+Fri: 11:00am-2:00pm, (Dishroom)
+Fri: 6:30pm-9:45pm, (Dishroom)
+Wed: 11:30am-3:00pm, (Grill)

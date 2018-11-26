@@ -1,0 +1,7 @@
+23:
+Total hour: 17.75
+Fri: 5:15pm-8:30pm, (Deli)
+Thu: 5:30pm-9:00pm, (Grill)
+Mon: 4:45pm-8:00pm, (Tero)
+Sun: 8:30pm-11:30pm, (Late Night)
+Sun: 8:45pm-13:30pm, (Late Night)

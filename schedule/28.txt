@@ -1,0 +1,5 @@
+28:
+Total hour: 11.0
+Wed: 7:30am-11:00am, (Big Kitchen)
+Mon: 9:30am-1:00pm, (Dishroom)
+Tue: 4:30pm-8:30pm, (Grill)

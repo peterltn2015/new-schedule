@@ -1,0 +1,6 @@
+43:
+Total hour: 13.5
+Tue: 7:15am-10:45am, (Deli)
+Wed: 8:00am-11:15am, (Dishroom)
+Sat: 5:15pm-9:00pm, (Grill)
+Mon: 8:30pm-11:30pm, (Late Night)

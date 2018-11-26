@@ -1,0 +1,5 @@
+25:
+Total hour: 11.0
+Sat: 8:00am-11:30am, (Dishroom)
+Sun: 5:30pm-9:30pm, (Dishroom)
+Thu: 11:00am-2:30pm, (Global)

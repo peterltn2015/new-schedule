@@ -1,0 +1,6 @@
+6:
+Total hour: 13.25
+Tue: 11:45am-3:00pm, (Deli)
+Thu: 11:30am-3:00pm, (Deli)
+Tue: 1:00pm-4:00pm, (Dishroom)
+Tue: 11:30am-3:00pm, (Grill)

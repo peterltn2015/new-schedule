@@ -1,0 +1,5 @@
+42:
+Total hour: 10.75
+Tue: 4:45pm-8:00pm, (Big Kitchen)
+Wed: 11:00am-3:30pm, (Big Kitchen)
+Wed: 7:00am-10:00am, (Dining)

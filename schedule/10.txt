@@ -1,0 +1,6 @@
+10:
+Total hour: 15.0
+Mon: 7:30am-11:00am, (Big Kitchen)
+Mon: 11:15am-2:30pm, (Deli)
+Mon: 8:45pm-13:30pm, (Late Night)
+Mon: 10:00pm-13:30pm, (Late Night)

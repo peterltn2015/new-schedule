@@ -1,0 +1,6 @@
+21:
+Total hour: 14.0
+Thu: 11:00am-2:15pm, (Deli)
+Sun: 4:45pm-9:00pm, (Deli)
+Thu: 11:00am-2:00pm, (Dishroom)
+Sat: 5:30pm-9:00pm, (Grill)

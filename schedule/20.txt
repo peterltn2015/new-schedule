@@ -1,0 +1,6 @@
+20:
+Total hour: 13.75
+Sat: 5:30pm-9:00pm, (Deli)
+Wed: 10:15am-1:30pm, (Grill)
+Mon: 11:00am-2:30pm, (Tero)
+Fri: 10:30am-2:00pm, (Tero)
