@@ -1,6 +1,6 @@
 8:
-Total hour: 12.75
-Tue: 11:30am-3:00pm, (Dining)
-Wed: 4:00pm-6:30pm, (Dishroom)
-Tue: 11:00am-2:30pm, (Global)
-Sun: 10:15pm-13:30pm, (Late Night)
+Total hour: 11.5
+Sun: 4:45pm-8:30pm, (Deli)
+Mon: 1:30pm-4:00pm, (Dishroom)
+Fri: 1:45pm-4:00pm, (Dishroom)
+Sun: 8:30pm-11:30pm, (Late Night)

@@ -1,6 +1,6 @@
 40:
-Total hour: 13.25
-Fri: 11:00am-2:30pm, (Deli)
-Thu: 7:00am-10:00am, (Dining)
+Total hour: 13.0
+Tue: 5:30pm-9:00pm, (Deli)
+Tue: 1:00pm-4:00pm, (Dishroom)
+Mon: 11:45am-3:00pm, (Grill)
 Thu: 11:45am-3:00pm, (Grill)
-Mon: 10:30am-2:00pm, (Tero)

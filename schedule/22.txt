@@ -2,6 +2,6 @@
 Total hour: 16.0
 Wed: 11:30am-3:00pm, (Big Kitchen)
 Tue: 3:00pm-6:00pm, (Deli)
-Thu: 5:00pm-8:30pm, (Deli)
-Tue: 1:30pm-4:00pm, (Dishroom)
-Wed: 5:00pm-8:30pm, (Tero)
+Thu: 3:00pm-6:00pm, (Deli)
+Fri: 5:30pm-9:00pm, (Deli)
+Mon: 12:00pm-3:00pm, (Dining)

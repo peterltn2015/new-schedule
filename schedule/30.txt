@@ -1,6 +1,6 @@
 30:
-Total hour: 14.0
-Wed: 11:45am-3:00pm, (Deli)
-Thu: 11:00am-3:00pm, (Dining)
-Tue: 11:00am-2:00pm, (Dishroom)
-Thu: 2:00pm-5:45pm, (Dishroom)
+Total hour: 14.75
+Fri: 7:30am-11:00am, (Big Kitchen)
+Sat: 6:00pm-9:45pm, (Dishroom)
+Tue: 11:00am-2:30pm, (Global)
+Thu: 4:30pm-8:30pm, (Grill)

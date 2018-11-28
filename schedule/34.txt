@@ -1,5 +1,5 @@
 34:
 Total hour: 12.0
-Sat: 9:45am-2:00pm, (Big Kitchen)
-Fri: 7:00am-10:00am, (Deli)
-Tue: 8:45pm-13:30pm, (Late Night)
+Sun: 8:00am-11:30am, (Deli)
+Tue: 4:45pm-8:30pm, (Global)
+Tue: 8:45pm-1:30am, (Late Night)

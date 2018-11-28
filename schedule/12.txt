@@ -1,6 +1,6 @@
 12:
-Total hour: 15.0
-Mon: 11:00am-3:30pm, (Big Kitchen)
-Sun: 5:00pm-8:30pm, (Big Kitchen)
-Sun: 6:00pm-9:30pm, (Dishroom)
-Mon: 11:00am-2:30pm, (Global)
+Total hour: 14.25
+Mon: 12:00pm-3:00pm, (Dishroom)
+Wed: 5:30pm-9:45pm, (Dishroom)
+Sun: 5:30pm-9:00pm, (Grill)
+Thu: 10:00pm-1:30am, (Late Night)

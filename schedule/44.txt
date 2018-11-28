@@ -1,5 +1,5 @@
 44:
-Total hour: 11.5
-Thu: 11:00am-3:30pm, (Big Kitchen)
-Sun: 8:00am-11:30am, (Deli)
+Total hour: 11.25
 Sat: 11:00am-2:30pm, (Dining)
+Tue: 5:30pm-9:45pm, (Dishroom)
+Thu: 11:00am-2:30pm, (Tero)
