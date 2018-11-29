@@ -1,5 +1,5 @@
 26:
-Total hour: 10.25
-Sat: 4:45pm-8:30pm, (Deli)
-Mon: 7:00am-10:00am, (Dining)
+Total hour: 10.5
+Sun: 5:00pm-8:30pm, (Big Kitchen)
+Sun: 7:00am-10:30am, (Deli)
 Thu: 11:00am-2:30pm, (Global)

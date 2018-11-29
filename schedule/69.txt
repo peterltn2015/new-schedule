@@ -1,5 +1,5 @@
 69:
 Total hour: 10.75
-Sat: 10:45am-2:30pm, (Big Kitchen)
-Thu: 10:00am-1:30pm, (Deli)
-Sun: 7:00am-10:30am, (Deli)
+Sat: 8:00am-11:30am, (Deli)
+Sat: 4:45pm-8:30pm, (Deli)
+Wed: 11:00am-2:30pm, (Tero)

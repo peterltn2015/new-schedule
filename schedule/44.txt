@@ -1,5 +1,5 @@
 44:
 Total hour: 10.0
-Tue: 5:00pm-8:30pm, (Big Kitchen)
-Wed: 11:30am-3:00pm, (Big Kitchen)
+Wed: 11:00am-3:30pm, (Big Kitchen)
+Mon: 4:00pm-6:30pm, (Dishroom)
 Thu: 11:00am-2:00pm, (Dishroom)

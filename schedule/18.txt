@@ -1,5 +1,5 @@
 18:
-Total hour: 10.25
-Mon: 7:00am-10:30am, (Big Kitchen)
+Total hour: 10.0
 Mon: 4:45pm-8:00pm, (Big Kitchen)
+Wed: 8:00am-11:15am, (Dishroom)
 Fri: 9:30am-1:00pm, (Dishroom)

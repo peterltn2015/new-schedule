@@ -1,5 +1,5 @@
 5:
-Total hour: 10.75
-Fri: 11:00am-2:30pm, (Deli)
+Total hour: 10.25
+Wed: 11:30am-3:00pm, (Big Kitchen)
+Fri: 3:00pm-6:00pm, (Deli)
 Thu: 4:45pm-8:30pm, (Global)
-Wed: 11:00am-2:30pm, (Tero)

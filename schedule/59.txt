@@ -1,5 +1,5 @@
 59:
-Total hour: 10.5
+Total hour: 11.75
+Mon: 11:00am-3:30pm, (Big Kitchen)
 Sun: 1:00pm-4:45pm, (Deli)
 Mon: 6:00pm-9:30pm, (Dining)
-Thu: 9:45am-1:00pm, (Dishroom)

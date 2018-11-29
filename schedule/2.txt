@@ -1,5 +1,5 @@
 2:
-Total hour: 10.25
-Thu: 3:00pm-6:00pm, (Deli)
-Mon: 5:15pm-9:00pm, (Grill)
+Total hour: 10.75
+Mon: 6:00pm-9:45pm, (Dishroom)
+Tue: 11:00am-2:30pm, (Global)
 Thu: 11:00am-2:30pm, (Tero)

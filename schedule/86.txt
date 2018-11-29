@@ -1,5 +1,5 @@
 86:
 Total hour: 10.0
 Thu: 11:00am-2:15pm, (Deli)
-Fri: 5:30pm-9:00pm, (Deli)
-Tue: 4:45pm-8:00pm, (Tero)
+Tue: 11:00am-2:00pm, (Dishroom)
+Fri: 5:15pm-9:00pm, (Grill)

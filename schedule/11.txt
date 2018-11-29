@@ -1,5 +1,5 @@
 11:
 Total hour: 10.75
-Sat: 8:00am-11:30am, (Dishroom)
+Mon: 7:00am-10:30am, (Big Kitchen)
+Wed: 2:00pm-5:45pm, (Dishroom)
 Fri: 11:00am-2:30pm, (Global)
-Mon: 4:15pm-8:00pm, (Grill)

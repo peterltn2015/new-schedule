@@ -1,6 +1,6 @@
 15:
-Total hour: 14.75
+Total hour: 14.5
 Fri: 5:00pm-8:30pm, (Big Kitchen)
 Sat: 10:15am-2:15pm, (Big Kitchen)
-Tue: 5:15pm-9:00pm, (Grill)
-Fri: 10:30am-2:00pm, (Grill)
+Wed: 5:45pm-9:30pm, (Dining)
+Tue: 4:45pm-8:00pm, (Tero)

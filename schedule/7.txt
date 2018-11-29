@@ -1,5 +1,5 @@
 7:
 Total hour: 11.25
-Fri: 10:45am-3:00pm, (Big Kitchen)
-Sun: 4:45pm-8:30pm, (Deli)
+Fri: 11:00am-3:30pm, (Big Kitchen)
 Mon: 8:00am-11:15am, (Dishroom)
+Sun: 6:00pm-9:30pm, (Dishroom)

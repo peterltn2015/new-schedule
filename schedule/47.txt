@@ -1,5 +1,5 @@
 47:
-Total hour: 10.25
+Total hour: 10.5
 Tue: 7:00am-10:00am, (Dining)
 Mon: 5:30pm-9:45pm, (Dishroom)
-Tue: 1:00pm-4:00pm, (Dishroom)
+Thu: 4:45pm-8:00pm, (Tero)

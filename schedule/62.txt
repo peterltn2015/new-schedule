@@ -1,5 +1,5 @@
 62:
 Total hour: 10.0
-Mon: 11:45am-3:00pm, (Deli)
-Tue: 7:15am-10:45am, (Deli)
+Wed: 5:00pm-8:30pm, (Big Kitchen)
 Tue: 10:45am-2:00pm, (Global)
+Wed: 10:15am-1:30pm, (Grill)

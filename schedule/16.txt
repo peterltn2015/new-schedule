@@ -1,5 +1,5 @@
 16:
-Total hour: 11.25
-Sun: 5:30pm-9:00pm, (Deli)
-Wed: 5:45pm-9:30pm, (Dining)
-Mon: 4:30pm-8:30pm, (Grill)
+Total hour: 11.5
+Wed: 9:30am-1:00pm, (Dishroom)
+Mon: 4:45pm-8:00pm, (Tero)
+Tue: 8:45pm-1:30am, (Late Night)

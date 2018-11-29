@@ -1,5 +1,5 @@
 34:
-Total hour: 11.0
-Wed: 11:00am-2:00pm, (Dishroom)
-Fri: 8:00am-11:15am, (Dishroom)
-Tue: 8:45pm-1:30am, (Late Night)
+Total hour: 10.0
+Fri: 11:00am-2:00pm, (Dishroom)
+Tue: 5:00pm-8:30pm, (Tero)
+Wed: 10:00pm-1:30am, (Late Night)

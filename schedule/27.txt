@@ -1,6 +1,6 @@
 27:
-Total hour: 14.5
+Total hour: 14.0
 Fri: 7:30am-11:00am, (Big Kitchen)
 Sun: 5:00pm-8:30pm, (Big Kitchen)
 Sun: 10:15am-2:15pm, (Big Kitchen)
-Wed: 10:00pm-1:30am, (Late Night)
+Wed: 7:00am-10:00am, (Dining)

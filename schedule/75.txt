@@ -1,5 +1,5 @@
 75:
-Total hour: 10.25
+Total hour: 10.0
+Tue: 1:00pm-4:00pm, (Dishroom)
 Sun: 3:00pm-6:45pm, (Dishroom)
-Mon: 10:45am-2:00pm, (Grill)
 Sun: 10:15pm-1:30am, (Late Night)

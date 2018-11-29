@@ -1,5 +1,5 @@
 48:
-Total hour: 10.0
-Wed: 11:45am-3:00pm, (Deli)
+Total hour: 10.25
+Mon: 10:45am-3:00pm, (Big Kitchen)
 Thu: 5:00pm-8:30pm, (Deli)
-Mon: 4:45pm-8:00pm, (Tero)
+Wed: 1:30pm-4:00pm, (Dishroom)
