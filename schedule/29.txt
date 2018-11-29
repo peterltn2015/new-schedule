@@ -1,6 +1,5 @@
 29:
-Total hour: 14.25
-Tue: 11:00am-2:15pm, (Big Kitchen)
-Fri: 9:30am-1:00pm, (Dishroom)
-Sun: 5:30pm-9:30pm, (Dishroom)
-Thu: 5:00pm-8:30pm, (Tero)
+Total hour: 11.25
+Tue: 5:30pm-9:45pm, (Dishroom)
+Sat: 5:30pm-9:00pm, (Grill)
+Tue: 10:00pm-1:30am, (Late Night)

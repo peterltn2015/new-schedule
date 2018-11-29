@@ -1,7 +1,6 @@
 37:
-Total hour: 16.75
-Sat: 4:45pm-8:30pm, (Deli)
-Thu: 11:00am-2:00pm, (Dishroom)
-Sun: 6:00pm-9:30pm, (Dishroom)
-Wed: 11:00am-2:15pm, (Global)
-Wed: 4:45pm-8:00pm, (Tero)
+Total hour: 14.5
+Wed: 4:45pm-8:00pm, (Big Kitchen)
+Sat: 6:00pm-9:45pm, (Dishroom)
+Fri: 10:30am-2:00pm, (Global)
+Wed: 4:30pm-8:30pm, (Grill)

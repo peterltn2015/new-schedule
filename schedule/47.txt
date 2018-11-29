@@ -1,5 +1,5 @@
 47:
-Total hour: 10.25
-Thu: 8:00am-11:15am, (Dishroom)
-Tue: 10:00am-1:30pm, (Grill)
-Wed: 10:30am-2:00pm, (Tero)
+Total hour: 10.5
+Tue: 7:00am-10:00am, (Dining)
+Mon: 5:30pm-9:45pm, (Dishroom)
+Thu: 4:45pm-8:00pm, (Tero)

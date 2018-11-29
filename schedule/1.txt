@@ -1,5 +1,5 @@
 1:
 Total hour: 10.0
-Sun: 9:45am-2:00pm, (Big Kitchen)
-Thu: 4:00pm-6:30pm, (Dishroom)
-Sun: 10:15pm-1:30am, (Late Night)
+Tue: 10:45am-3:00pm, (Big Kitchen)
+Thu: 4:45pm-8:00pm, (Big Kitchen)
+Tue: 4:00pm-6:30pm, (Dishroom)

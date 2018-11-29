@@ -1,7 +1,6 @@
 15:
-Total hour: 16.25
-Tue: 7:00am-10:30am, (Big Kitchen)
-Thu: 5:30pm-9:00pm, (Deli)
-Tue: 4:00pm-6:30pm, (Dishroom)
-Fri: 6:30pm-9:45pm, (Dishroom)
-Wed: 5:00pm-8:30pm, (Global)
+Total hour: 14.75
+Tue: 5:00pm-8:30pm, (Big Kitchen)
+Fri: 5:00pm-8:30pm, (Big Kitchen)
+Sat: 10:15am-2:15pm, (Big Kitchen)
+Wed: 10:30am-2:15pm, (Global)

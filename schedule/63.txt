@@ -1,0 +1,5 @@
+63:
+Total hour: 12.0
+Wed: 5:45pm-9:00pm, (Deli)
+Sun: 12:00pm-4:45pm, (Deli)
+Thu: 4:30pm-8:30pm, (Grill)

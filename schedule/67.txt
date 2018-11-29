@@ -1,0 +1,5 @@
+67:
+Total hour: 10.0
+Wed: 1:30pm-4:00pm, (Dishroom)
+Fri: 9:30am-1:00pm, (Dishroom)
+Sun: 4:00pm-8:00pm, (Grill)

@@ -1,6 +1,5 @@
 24:
-Total hour: 11.5
-Tue: 5:30pm-8:30pm, (Deli)
-Sun: 7:00am-10:30am, (Deli)
-Mon: 4:00pm-6:30pm, (Dishroom)
-Wed: 4:00pm-6:30pm, (Dishroom)
+Total hour: 10.25
+Thu: 4:00pm-6:30pm, (Dishroom)
+Fri: 4:30pm-8:30pm, (Grill)
+Sat: 4:30pm-8:15pm, (Grill)

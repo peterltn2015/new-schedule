@@ -1,0 +1,5 @@
+78:
+Total hour: 10.5
+Fri: 7:30am-11:00am, (Deli)
+Tue: 4:45pm-8:30pm, (Global)
+Wed: 11:00am-2:15pm, (Global)

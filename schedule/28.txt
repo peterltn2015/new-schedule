@@ -1,5 +1,5 @@
 28:
-Total hour: 12.0
-Fri: 11:00am-3:30pm, (Big Kitchen)
-Fri: 7:30am-11:00am, (Deli)
-Tue: 4:30pm-8:30pm, (Grill)
+Total hour: 10.5
+Wed: 9:30am-1:00pm, (Dishroom)
+Mon: 10:30am-2:00pm, (Tero)
+Fri: 10:30am-2:00pm, (Tero)

@@ -1,7 +1,5 @@
 32:
-Total hour: 15.0
-Thu: 4:45pm-8:00pm, (Big Kitchen)
-Sun: 4:45pm-8:00pm, (Big Kitchen)
-Fri: 3:00pm-6:00pm, (Deli)
-Wed: 1:30pm-3:00pm, (Dishroom)
-Mon: 4:30pm-8:30pm, (Grill)
+Total hour: 11.5
+Thu: 10:00am-1:30pm, (Deli)
+Fri: 4:45pm-8:30pm, (Deli)
+Thu: 5:30pm-9:45pm, (Dishroom)

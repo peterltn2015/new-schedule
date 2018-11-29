@@ -1,0 +1,5 @@
+80:
+Total hour: 11.25
+Mon: 11:00am-3:30pm, (Big Kitchen)
+Thu: 7:30am-11:00am, (Deli)
+Fri: 5:15pm-8:30pm, (Deli)

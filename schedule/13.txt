@@ -1,5 +1,5 @@
 13:
-Total hour: 10.25
-Mon: 4:45pm-8:00pm, (Big Kitchen)
-Mon: 11:00am-2:30pm, (Global)
-Fri: 11:00am-2:30pm, (Global)
+Total hour: 10.5
+Sat: 11:00am-2:30pm, (Dining)
+Sun: 11:00am-2:30pm, (Dining)
+Fri: 11:00am-2:30pm, (Tero)

@@ -1,6 +1,5 @@
 11:
-Total hour: 13.25
-Wed: 7:30am-11:00am, (Deli)
-Thu: 7:30am-11:00am, (Deli)
-Fri: 11:00am-2:00pm, (Dishroom)
-Mon: 10:45am-2:00pm, (Grill)
+Total hour: 10.25
+Wed: 7:00am-10:00am, (Dining)
+Wed: 2:00pm-5:45pm, (Dishroom)
+Fri: 11:00am-2:30pm, (Global)

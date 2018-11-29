@@ -1,0 +1,5 @@
+88:
+Total hour: 13.25
+Sat: 12:00pm-4:45pm, (Deli)
+Sun: 12:00pm-4:45pm, (Deli)
+Wed: 4:15pm-8:00pm, (Grill)

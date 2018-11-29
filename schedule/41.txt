@@ -1,5 +1,5 @@
 41:
 Total hour: 10.0
-Thu: 7:00am-10:00am, (Dining)
-Tue: 5:30pm-9:00pm, (Grill)
-Thu: 10:00am-1:30pm, (Grill)
+Thu: 7:00am-10:00am, (Deli)
+Sun: 8:00am-11:30am, (Dishroom)
+Thu: 10:30am-2:00pm, (Grill)

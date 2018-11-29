@@ -1,0 +1,5 @@
+77:
+Total hour: 10.75
+Mon: 4:45pm-8:30pm, (Deli)
+Tue: 11:00am-2:30pm, (Deli)
+Wed: 7:30am-11:00am, (Deli)

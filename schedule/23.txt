@@ -1,7 +1,6 @@
 23:
-Total hour: 16.75
-Wed: 7:00am-10:30am, (Big Kitchen)
-Sat: 5:30pm-9:00pm, (Deli)
-Fri: 5:30pm-9:00pm, (Grill)
-Thu: 4:45pm-8:00pm, (Tero)
-Mon: 8:30pm-11:30pm, (Late Night)
+Total hour: 15.5
+Thu: 7:00am-10:30am, (Big Kitchen)
+Wed: 7:00am-10:45am, (Deli)
+Thu: 5:00pm-8:30pm, (Global)
+Wed: 8:45pm-1:30am, (Late Night)

@@ -1,0 +1,5 @@
+58:
+Total hour: 10.0
+Mon: 7:00am-10:00am, (Deli)
+Thu: 10:30am-2:00pm, (Global)
+Mon: 10:00pm-1:30am, (Late Night)

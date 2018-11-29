@@ -1,0 +1,5 @@
+54:
+Total hour: 10.25
+Mon: 3:00pm-6:00pm, (Deli)
+Thu: 5:15pm-9:00pm, (Grill)
+Thu: 10:00pm-1:30am, (Late Night)

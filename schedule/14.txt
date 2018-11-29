@@ -1,6 +1,5 @@
 14:
-Total hour: 13.75
-Mon: 11:00am-3:30pm, (Big Kitchen)
-Wed: 5:45pm-9:00pm, (Deli)
-Fri: 4:00pm-6:30pm, (Dishroom)
-Wed: 10:30am-2:00pm, (Grill)
+Total hour: 10.5
+Mon: 9:30am-1:00pm, (Dishroom)
+Fri: 8:00am-11:15am, (Dishroom)
+Wed: 4:45pm-8:30pm, (Global)

@@ -1,6 +1,5 @@
 45:
-Total hour: 12.5
-Mon: 3:00pm-6:00pm, (Deli)
-Sat: 7:00am-10:30am, (Deli)
-Wed: 1:30pm-4:00pm, (Dishroom)
-Tue: 11:00am-2:30pm, (Tero)
+Total hour: 10.5
+Mon: 6:00pm-9:45pm, (Dishroom)
+Sun: 10:00am-1:45pm, (Dishroom)
+Tue: 8:30pm-11:30pm, (Late Night)

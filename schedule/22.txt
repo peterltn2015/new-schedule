@@ -1,7 +1,6 @@
 22:
-Total hour: 16.0
-Wed: 11:30am-3:00pm, (Big Kitchen)
-Tue: 3:00pm-6:00pm, (Deli)
-Thu: 3:00pm-6:00pm, (Deli)
-Fri: 5:30pm-9:00pm, (Deli)
-Mon: 12:00pm-3:00pm, (Dining)
+Total hour: 14.0
+Sat: 4:45pm-9:00pm, (Deli)
+Fri: 5:45pm-9:30pm, (Dining)
+Wed: 4:00pm-6:30pm, (Dishroom)
+Fri: 11:30am-3:00pm, (Grill)
