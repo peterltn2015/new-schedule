@@ -1,6 +1,6 @@
 15:
 Total hour: 14.75
-Tue: 5:00pm-8:30pm, (Big Kitchen)
 Fri: 5:00pm-8:30pm, (Big Kitchen)
 Sat: 10:15am-2:15pm, (Big Kitchen)
-Wed: 10:30am-2:15pm, (Global)
+Tue: 5:15pm-9:00pm, (Grill)
+Fri: 10:30am-2:00pm, (Grill)

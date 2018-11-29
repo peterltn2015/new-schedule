@@ -1,5 +1,6 @@
 88:
-Total hour: 13.25
+Total hour: 15.0
+Tue: 4:45pm-8:30pm, (Deli)
 Sat: 12:00pm-4:45pm, (Deli)
-Sun: 12:00pm-4:45pm, (Deli)
-Wed: 4:15pm-8:00pm, (Grill)
+Tue: 11:00am-2:00pm, (Dishroom)
+Mon: 11:00am-2:30pm, (Tero)

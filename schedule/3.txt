@@ -1,5 +1,5 @@
 3:
-Total hour: 10.0
-Thu: 11:00am-3:00pm, (Dining)
+Total hour: 10.75
+Mon: 10:45am-3:00pm, (Big Kitchen)
 Fri: 12:00pm-3:00pm, (Dining)
-Mon: 5:30pm-8:30pm, (Global)
+Thu: 10:00am-1:30pm, (Grill)

@@ -1,5 +1,5 @@
 60:
-Total hour: 10.25
-Sun: 5:45pm-9:30pm, (Dining)
-Mon: 12:00pm-3:00pm, (Dishroom)
+Total hour: 10.75
+Mon: 2:00pm-5:45pm, (Dishroom)
+Sun: 6:00pm-9:30pm, (Dishroom)
 Thu: 5:30pm-9:00pm, (Grill)

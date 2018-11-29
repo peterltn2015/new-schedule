@@ -1,5 +1,5 @@
 10:
-Total hour: 13.0
-Wed: 5:30pm-9:45pm, (Dishroom)
+Total hour: 12.25
 Sun: 6:00pm-10:00pm, (Dishroom)
+Wed: 5:30pm-9:00pm, (Grill)
 Thu: 8:45pm-1:30am, (Late Night)

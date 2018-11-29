@@ -1,6 +1,6 @@
 51:
-Total hour: 14.25
+Total hour: 14.0
 Tue: 7:00am-10:30am, (Big Kitchen)
-Sat: 10:45am-2:30pm, (Big Kitchen)
-Sun: 9:30am-1:15pm, (Big Kitchen)
 Mon: 11:15am-2:30pm, (Deli)
+Sun: 9:30am-1:15pm, (Deli)
+Thu: 5:00pm-8:30pm, (Global)

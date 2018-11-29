@@ -1,5 +1,5 @@
 70:
-Total hour: 10.25
-Fri: 5:15pm-9:00pm, (Grill)
+Total hour: 10.0
+Sat: 8:00am-11:30am, (Deli)
 Mon: 5:00pm-8:30pm, (Tero)
 Sun: 8:30pm-11:30pm, (Late Night)

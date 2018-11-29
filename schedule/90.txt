@@ -1,6 +1,6 @@
 90:
-Total hour: 12.25
+Total hour: 13.75
 Wed: 5:00pm-8:30pm, (Deli)
 Sat: 11:30am-3:15pm, (Deli)
-Wed: 1:30pm-3:00pm, (Dishroom)
+Mon: 5:30pm-8:30pm, (Global)
 Mon: 10:00am-1:30pm, (Grill)

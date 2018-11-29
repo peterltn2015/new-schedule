@@ -1,5 +1,5 @@
 14:
-Total hour: 10.5
+Total hour: 11.5
+Sun: 12:00pm-4:45pm, (Deli)
 Mon: 9:30am-1:00pm, (Dishroom)
-Fri: 8:00am-11:15am, (Dishroom)
-Wed: 4:45pm-8:30pm, (Global)
+Wed: 4:45pm-8:00pm, (Tero)

@@ -1,5 +1,5 @@
 19:
-Total hour: 10.0
-Fri: 10:30am-2:00pm, (Grill)
-Thu: 10:30am-2:00pm, (Tero)
+Total hour: 10.25
+Wed: 10:30am-2:15pm, (Global)
+Tue: 11:00am-2:30pm, (Tero)
 Wed: 8:30pm-11:30pm, (Late Night)

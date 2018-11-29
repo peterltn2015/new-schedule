@@ -1,5 +1,5 @@
 52:
-Total hour: 11.0
+Total hour: 11.5
 Sat: 9:30am-1:15pm, (Big Kitchen)
-Sun: 7:00am-10:30am, (Deli)
-Mon: 4:15pm-8:00pm, (Grill)
+Wed: 7:00am-10:45am, (Deli)
+Thu: 4:30pm-8:30pm, (Grill)

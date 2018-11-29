@@ -1,5 +1,5 @@
 78:
-Total hour: 10.5
-Fri: 7:30am-11:00am, (Deli)
+Total hour: 10.0
+Mon: 4:00pm-6:30pm, (Dishroom)
 Tue: 4:45pm-8:30pm, (Global)
-Wed: 11:00am-2:15pm, (Global)
+Wed: 4:15pm-8:00pm, (Grill)

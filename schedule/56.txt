@@ -1,5 +1,5 @@
 56:
 Total hour: 10.0
-Fri: 4:45pm-8:00pm, (Big Kitchen)
+Tue: 7:00am-10:00am, (Deli)
 Thu: 4:45pm-8:30pm, (Deli)
-Tue: 1:00pm-4:00pm, (Dishroom)
+Wed: 11:00am-2:15pm, (Global)

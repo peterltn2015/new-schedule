@@ -1,5 +1,5 @@
 74:
-Total hour: 10.5
-Wed: 11:45am-3:00pm, (Deli)
-Sun: 9:30am-1:15pm, (Deli)
+Total hour: 11.0
+Sun: 9:30am-1:15pm, (Big Kitchen)
+Sat: 2:00pm-5:45pm, (Dishroom)
 Mon: 5:30pm-9:00pm, (Grill)
